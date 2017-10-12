@@ -10,6 +10,26 @@ body{
 }
 
 #header{	
-	
+border: 1px solid black;
+width:100%
+height: 120px;	
+background: #202020;
+}
+
+#wrapper{
+width: 800px;
+height: auto;
+border: 1px solid black;
+height: 300px
+margin: 0px auto;
+
+}
+
+#main{
+
+}
+
+#footer{
+
 }
 
